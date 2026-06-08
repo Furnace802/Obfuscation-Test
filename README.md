@@ -3,3 +3,7 @@
 how to load:
 
 ```loadstring(game:GetService("HttpService"):GetAsync(`https://raw.githubusercontent.com/Furnace802/Obfuscation-Test/refs/heads/main/main.lua`))()```
+
+note:
+
+```disco shutdown beam unanchor loadex ff reset ai snipe```
